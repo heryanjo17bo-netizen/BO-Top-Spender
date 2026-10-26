@@ -1,0 +1,8 @@
+{
+  "name": "Remix BLACK OWL — TOP SPENDER",
+  "description": "Real-time FOH VIP spending leaderboard and broadcast-grade transparent LED display overlay for Black Owl venues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

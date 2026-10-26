@@ -1,0 +1,614 @@
+{
+  "BOSCBD": {
+    "id": "BOSCBD",
+    "name": "Black Owl SCBD",
+    "participants": [
+      {
+        "id": "p_boscbd_1",
+        "name": "ALEXANDER",
+        "table": "TABLE 08",
+        "spending": 230000000,
+        "createdAt": 1792987608859,
+        "tieBreakOrder": 1
+      },
+      {
+        "id": "p_boscbd_2",
+        "name": "JESSICA W.",
+        "table": "VIP 02",
+        "spending": 175000000,
+        "createdAt": 1792987618859,
+        "tieBreakOrder": 2
+      },
+      {
+        "id": "p_boscbd_3",
+        "name": "MICHAEL TAN",
+        "table": "VVIP 01",
+        "spending": 255000000,
+        "createdAt": 1792987628859,
+        "tieBreakOrder": 3
+      },
+      {
+        "id": "p_boscbd_4",
+        "name": "CHRISTOPHER",
+        "table": "TABLE 12",
+        "spending": 118000000,
+        "createdAt": 1792987638859,
+        "tieBreakOrder": 4
+      },
+      {
+        "id": "p_boscbd_5",
+        "name": "EDWARD S.",
+        "table": "SOFA 04",
+        "spending": 95000000,
+        "createdAt": 1792987648859,
+        "tieBreakOrder": 5
+      },
+      {
+        "id": "p_boscbd_6",
+        "name": "PATRICK CHEN",
+        "table": "VIP 05",
+        "spending": 82000000,
+        "createdAt": 1792987658859,
+        "tieBreakOrder": 6
+      },
+      {
+        "id": "p_boscbd_7",
+        "name": "HENDRA K.",
+        "table": "TABLE 15",
+        "spending": 65000000,
+        "createdAt": 1792987668859,
+        "tieBreakOrder": 7
+      },
+      {
+        "id": "p_boscbd_8",
+        "name": "RICHARD H.",
+        "table": "SOFA 02",
+        "spending": 48000000,
+        "createdAt": 1792987678859,
+        "tieBreakOrder": 8
+      },
+      {
+        "id": "p_boscbd_9",
+        "name": "KEVIN WIJAYA",
+        "table": "TABLE 03",
+        "spending": 35000000,
+        "createdAt": 1792987688859,
+        "tieBreakOrder": 9
+      },
+      {
+        "id": "p_boscbd_10",
+        "name": "STEPHANIE",
+        "table": "TABLE 06",
+        "spending": 22000000,
+        "createdAt": 1792987698859,
+        "tieBreakOrder": 10
+      }
+    ],
+    "settings": {
+      "headingText": "TOP SPENDER",
+      "goldAccentColor": "#D1B983",
+      "textColor": "#FFFFFF",
+      "fontScale": 1,
+      "rowSpacing": 25,
+      "rowBackgroundOpacity": 0.6,
+      "backgroundMode": "transparent",
+      "outputWidth": 2560,
+      "outputHeight": 1440,
+      "safeMargin": 60,
+      "overlayAlignment": "center"
+    },
+    "pin": "8888",
+    "lastUpdated": 1792991872972,
+    "version": 5
+  },
+  "BOPIK": {
+    "id": "BOPIK",
+    "name": "Black Owl PIK",
+    "participants": [
+      {
+        "id": "p_bopik_1",
+        "name": "WILLIAM S.",
+        "table": "VVIP 01",
+        "spending": 185000000,
+        "createdAt": 1792987555909,
+        "tieBreakOrder": 1
+      },
+      {
+        "id": "p_bopik_2",
+        "name": "ANDREW L.",
+        "table": "VIP 03",
+        "spending": 150000000,
+        "createdAt": 1792987565909,
+        "tieBreakOrder": 2
+      },
+      {
+        "id": "p_bopik_3",
+        "name": "CATHY ONG",
+        "table": "TABLE 09",
+        "spending": 120500000,
+        "createdAt": 1792987575909,
+        "tieBreakOrder": 3
+      },
+      {
+        "id": "p_bopik_4",
+        "name": "DANIEL K.",
+        "table": "SOFA 01",
+        "spending": 98000000,
+        "createdAt": 1792987585909,
+        "tieBreakOrder": 4
+      },
+      {
+        "id": "p_bopik_5",
+        "name": "RAYMOND T.",
+        "table": "TABLE 14",
+        "spending": 76000000,
+        "createdAt": 1792987595909,
+        "tieBreakOrder": 5
+      },
+      {
+        "id": "p_bopik_6",
+        "name": "FELIX S.",
+        "table": "TABLE 05",
+        "spending": 55000000,
+        "createdAt": 1792987605909,
+        "tieBreakOrder": 6
+      },
+      {
+        "id": "p_bopik_7",
+        "name": "BRYAN H.",
+        "table": "SOFA 07",
+        "spending": 42000000,
+        "createdAt": 1792987615909,
+        "tieBreakOrder": 7
+      },
+      {
+        "id": "p_bopik_8",
+        "name": "VANESSA M.",
+        "table": "TABLE 18",
+        "spending": 31000000,
+        "createdAt": 1792987625909,
+        "tieBreakOrder": 8
+      },
+      {
+        "id": "p_bopik_9",
+        "name": "TOMMY P.",
+        "table": "TABLE 02",
+        "spending": 24000000,
+        "createdAt": 1792987635909,
+        "tieBreakOrder": 9
+      },
+      {
+        "id": "p_bopik_10",
+        "name": "JONATHAN",
+        "table": "TABLE 11",
+        "spending": 15000000,
+        "createdAt": 1792987645909,
+        "tieBreakOrder": 10
+      }
+    ],
+    "settings": {
+      "headingText": "TOP SPENDER",
+      "goldAccentColor": "#D1B983",
+      "textColor": "#FFFFFF",
+      "fontScale": 1,
+      "rowSpacing": 25,
+      "rowBackgroundOpacity": 0.6,
+      "backgroundMode": "transparent",
+      "outputWidth": 2560,
+      "outputHeight": 1440,
+      "safeMargin": 60,
+      "overlayAlignment": "center"
+    },
+    "pin": "8888",
+    "lastUpdated": 1792991155909,
+    "version": 1
+  },
+  "BOKG": {
+    "id": "BOKG",
+    "name": "Black Owl Kelapa Gading",
+    "participants": [
+      {
+        "id": "p_bokg_1",
+        "name": "STEVEN W.",
+        "table": "VIP 01",
+        "spending": 160000000,
+        "createdAt": 1792987555909,
+        "tieBreakOrder": 1
+      },
+      {
+        "id": "p_bokg_2",
+        "name": "JEFFREY K.",
+        "table": "TABLE 07",
+        "spending": 135000000,
+        "createdAt": 1792987565909,
+        "tieBreakOrder": 2
+      },
+      {
+        "id": "p_bokg_3",
+        "name": "MICHELLE G.",
+        "table": "VVIP 02",
+        "spending": 110000000,
+        "createdAt": 1792987575909,
+        "tieBreakOrder": 3
+      },
+      {
+        "id": "p_bokg_4",
+        "name": "ANTHONY C.",
+        "table": "SOFA 03",
+        "spending": 88000000,
+        "createdAt": 1792987585909,
+        "tieBreakOrder": 4
+      },
+      {
+        "id": "p_bokg_5",
+        "name": "BRANDON T.",
+        "table": "TABLE 10",
+        "spending": 69000000,
+        "createdAt": 1792987595909,
+        "tieBreakOrder": 5
+      },
+      {
+        "id": "p_bokg_6",
+        "name": "CINDY L.",
+        "table": "TABLE 04",
+        "spending": 52000000,
+        "createdAt": 1792987605909,
+        "tieBreakOrder": 6
+      },
+      {
+        "id": "p_bokg_7",
+        "name": "CALVIN R.",
+        "table": "SOFA 05",
+        "spending": 38000000,
+        "createdAt": 1792987615909,
+        "tieBreakOrder": 7
+      },
+      {
+        "id": "p_bokg_8",
+        "name": "MELISSA K.",
+        "table": "TABLE 16",
+        "spending": 29000000,
+        "createdAt": 1792987625909,
+        "tieBreakOrder": 8
+      },
+      {
+        "id": "p_bokg_9",
+        "name": "HERMAN S.",
+        "table": "TABLE 08",
+        "spending": 19500000,
+        "createdAt": 1792987635909,
+        "tieBreakOrder": 9
+      },
+      {
+        "id": "p_bokg_10",
+        "name": "NICHOLAS",
+        "table": "TABLE 01",
+        "spending": 12000000,
+        "createdAt": 1792987645909,
+        "tieBreakOrder": 10
+      }
+    ],
+    "settings": {
+      "headingText": "TOP SPENDER",
+      "goldAccentColor": "#D1B983",
+      "textColor": "#FFFFFF",
+      "fontScale": 1,
+      "rowSpacing": 25,
+      "rowBackgroundOpacity": 0.6,
+      "backgroundMode": "transparent",
+      "outputWidth": 2560,
+      "outputHeight": 1440,
+      "safeMargin": 60,
+      "overlayAlignment": "center"
+    },
+    "pin": "8888",
+    "lastUpdated": 1792991155909,
+    "version": 1
+  },
+  "BOGS": {
+    "id": "BOGS",
+    "name": "Black Owl Gading Serpong",
+    "participants": [
+      {
+        "id": "p_bogs_1",
+        "name": "ALVIN T.",
+        "table": "VVIP 01",
+        "spending": 145000000,
+        "createdAt": 1792987555910,
+        "tieBreakOrder": 1
+      },
+      {
+        "id": "p_bogs_2",
+        "name": "SAMUEL P.",
+        "table": "VIP 02",
+        "spending": 122000000,
+        "createdAt": 1792987565910,
+        "tieBreakOrder": 2
+      },
+      {
+        "id": "p_bogs_3",
+        "name": "PATRICIA",
+        "table": "TABLE 05",
+        "spending": 95500000,
+        "createdAt": 1792987575910,
+        "tieBreakOrder": 3
+      },
+      {
+        "id": "p_bogs_4",
+        "name": "DAVID W.",
+        "table": "SOFA 02",
+        "spending": 81000000,
+        "createdAt": 1792987585910,
+        "tieBreakOrder": 4
+      },
+      {
+        "id": "p_bogs_5",
+        "name": "DARREN H.",
+        "table": "TABLE 11",
+        "spending": 63000000,
+        "createdAt": 1792987595910,
+        "tieBreakOrder": 5
+      },
+      {
+        "id": "p_bogs_6",
+        "name": "KENNETH S.",
+        "table": "TABLE 08",
+        "spending": 49000000,
+        "createdAt": 1792987605910,
+        "tieBreakOrder": 6
+      },
+      {
+        "id": "p_bogs_7",
+        "name": "TIFFANY L.",
+        "table": "SOFA 06",
+        "spending": 36000000,
+        "createdAt": 1792987615910,
+        "tieBreakOrder": 7
+      },
+      {
+        "id": "p_bogs_8",
+        "name": "LEONARD K.",
+        "table": "TABLE 19",
+        "spending": 27000000,
+        "createdAt": 1792987625910,
+        "tieBreakOrder": 8
+      },
+      {
+        "id": "p_bogs_9",
+        "name": "JOSHUA C.",
+        "table": "TABLE 03",
+        "spending": 18000000,
+        "createdAt": 1792987635910,
+        "tieBreakOrder": 9
+      },
+      {
+        "id": "p_bogs_10",
+        "name": "CLARISSA",
+        "table": "TABLE 12",
+        "spending": 11500000,
+        "createdAt": 1792987645910,
+        "tieBreakOrder": 10
+      }
+    ],
+    "settings": {
+      "headingText": "TOP SPENDER",
+      "goldAccentColor": "#D1B983",
+      "textColor": "#FFFFFF",
+      "fontScale": 1,
+      "rowSpacing": 25,
+      "rowBackgroundOpacity": 0.6,
+      "backgroundMode": "transparent",
+      "outputWidth": 2560,
+      "outputHeight": 1440,
+      "safeMargin": 60,
+      "overlayAlignment": "center"
+    },
+    "pin": "8888",
+    "lastUpdated": 1792991155910,
+    "version": 1
+  },
+  "BOSBY": {
+    "id": "BOSBY",
+    "name": "Black Owl Surabaya",
+    "participants": [
+      {
+        "id": "p_bosby_1",
+        "name": "HARTONO W.",
+        "table": "VIP 01",
+        "spending": 210000000,
+        "createdAt": 1792987555910,
+        "tieBreakOrder": 1
+      },
+      {
+        "id": "p_bosby_2",
+        "name": "SURYA K.",
+        "table": "VVIP 02",
+        "spending": 165000000,
+        "createdAt": 1792987565910,
+        "tieBreakOrder": 2
+      },
+      {
+        "id": "p_bosby_3",
+        "name": "GABRIEL N.",
+        "table": "TABLE 06",
+        "spending": 130000000,
+        "createdAt": 1792987575910,
+        "tieBreakOrder": 3
+      },
+      {
+        "id": "p_bosby_4",
+        "name": "MELVIN T.",
+        "table": "SOFA 01",
+        "spending": 105000000,
+        "createdAt": 1792987585910,
+        "tieBreakOrder": 4
+      },
+      {
+        "id": "p_bosby_5",
+        "name": "IVAN S.",
+        "table": "TABLE 15",
+        "spending": 84000000,
+        "createdAt": 1792987595910,
+        "tieBreakOrder": 5
+      },
+      {
+        "id": "p_bosby_6",
+        "name": "RONALD W.",
+        "table": "TABLE 09",
+        "spending": 61000000,
+        "createdAt": 1792987605910,
+        "tieBreakOrder": 6
+      },
+      {
+        "id": "p_bosby_7",
+        "name": "DENISE L.",
+        "table": "SOFA 04",
+        "spending": 45000000,
+        "createdAt": 1792987615910,
+        "tieBreakOrder": 7
+      },
+      {
+        "id": "p_bosby_8",
+        "name": "OSCAR T.",
+        "table": "TABLE 21",
+        "spending": 33000000,
+        "createdAt": 1792987625910,
+        "tieBreakOrder": 8
+      },
+      {
+        "id": "p_bosby_9",
+        "name": "VERONICA",
+        "table": "TABLE 04",
+        "spending": 21000000,
+        "createdAt": 1792987635910,
+        "tieBreakOrder": 9
+      },
+      {
+        "id": "p_bosby_10",
+        "name": "JULIUS P.",
+        "table": "TABLE 10",
+        "spending": 14000000,
+        "createdAt": 1792987645910,
+        "tieBreakOrder": 10
+      }
+    ],
+    "settings": {
+      "headingText": "TOP SPENDER",
+      "goldAccentColor": "#D1B983",
+      "textColor": "#FFFFFF",
+      "fontScale": 1,
+      "rowSpacing": 25,
+      "rowBackgroundOpacity": 0.6,
+      "backgroundMode": "transparent",
+      "outputWidth": 2560,
+      "outputHeight": 1440,
+      "safeMargin": 60,
+      "overlayAlignment": "center"
+    },
+    "pin": "8888",
+    "lastUpdated": 1792991155910,
+    "version": 1
+  },
+  "BOMDN": {
+    "id": "BOMDN",
+    "name": "Black Owl Medan",
+    "participants": [
+      {
+        "id": "p_bomdn_1",
+        "name": "CHANDRA S.",
+        "table": "VVIP 01",
+        "spending": 195000000,
+        "createdAt": 1792987555910,
+        "tieBreakOrder": 1
+      },
+      {
+        "id": "p_bomdn_2",
+        "name": "BENNY H.",
+        "table": "VIP 03",
+        "spending": 155000000,
+        "createdAt": 1792987565910,
+        "tieBreakOrder": 2
+      },
+      {
+        "id": "p_bomdn_3",
+        "name": "EDWIN T.",
+        "table": "TABLE 08",
+        "spending": 115000000,
+        "createdAt": 1792987575910,
+        "tieBreakOrder": 3
+      },
+      {
+        "id": "p_bomdn_4",
+        "name": "RUDY K.",
+        "table": "SOFA 02",
+        "spending": 92000000,
+        "createdAt": 1792987585910,
+        "tieBreakOrder": 4
+      },
+      {
+        "id": "p_bomdn_5",
+        "name": "ARTHUR L.",
+        "table": "TABLE 14",
+        "spending": 72000000,
+        "createdAt": 1792987595910,
+        "tieBreakOrder": 5
+      },
+      {
+        "id": "p_bomdn_6",
+        "name": "SEBASTIAN",
+        "table": "TABLE 07",
+        "spending": 51000000,
+        "createdAt": 1792987605910,
+        "tieBreakOrder": 6
+      },
+      {
+        "id": "p_bomdn_7",
+        "name": "NATALIE",
+        "table": "SOFA 05",
+        "spending": 39000000,
+        "createdAt": 1792987615910,
+        "tieBreakOrder": 7
+      },
+      {
+        "id": "p_bomdn_8",
+        "name": "GILBERT W.",
+        "table": "TABLE 17",
+        "spending": 28000000,
+        "createdAt": 1792987625910,
+        "tieBreakOrder": 8
+      },
+      {
+        "id": "p_bomdn_9",
+        "name": "ALICIA K.",
+        "table": "TABLE 02",
+        "spending": 19000000,
+        "createdAt": 1792987635910,
+        "tieBreakOrder": 9
+      },
+      {
+        "id": "p_bomdn_10",
+        "name": "VICTOR S.",
+        "table": "TABLE 11",
+        "spending": 13000000,
+        "createdAt": 1792987645910,
+        "tieBreakOrder": 10
+      }
+    ],
+    "settings": {
+      "headingText": "TOP SPENDER",
+      "goldAccentColor": "#D1B983",
+      "textColor": "#FFFFFF",
+      "fontScale": 1,
+      "rowSpacing": 25,
+      "rowBackgroundOpacity": 0.6,
+      "backgroundMode": "transparent",
+      "outputWidth": 2560,
+      "outputHeight": 1440,
+      "safeMargin": 60,
+      "overlayAlignment": "center"
+    },
+    "pin": "8888",
+    "lastUpdated": 1792991155910,
+    "version": 1
+  }
+}

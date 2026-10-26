@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --gold-primary: #D1B983;
+    --gold-bright: #EADCB9;
+    --gold-glow: rgba(209, 185, 131, 0.5);
+  }
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', Georgia, serif;
+}
+
+.font-outfit {
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.font-tabular {
+  font-family: 'JetBrains Mono', monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+/* LED Broadcast Glow Utilities with #D1B983 */
+.text-gold-glow {
+  text-shadow: 0 0 20px rgba(209, 185, 131, 0.6), 0 0 45px rgba(209, 185, 131, 0.35);
+}
+
+.text-gold-subtle {
+  text-shadow: 0 0 12px rgba(209, 185, 131, 0.3);
+}
+
+.box-gold-glow {
+  box-shadow: 0 0 32px rgba(209, 185, 131, 0.65), inset 0 0 16px rgba(209, 185, 131, 0.3);
+}
+
+.box-gold-glow-rank1 {
+  box-shadow: 0 0 35px rgba(209, 185, 131, 0.45), inset 0 0 20px rgba(209, 185, 131, 0.2);
+}
+
+/* Promotion Highlight Light Sweep */
+@keyframes sweep {
+  0% {
+    transform: translateX(-100%) skewX(-20deg);
+  }
+  100% {
+    transform: translateX(250%) skewX(-20deg);
+  }
+}
+
+.animate-gold-sweep {
+  animation: sweep 2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
